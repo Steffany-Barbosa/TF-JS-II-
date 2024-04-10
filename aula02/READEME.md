@@ -58,19 +58,6 @@ while (condicao) {
 }
 ```
 
-### Exemplo 1
-
-Vamos declarar uma variável e iniciá-la em 0 para, em seguida, usar o `while` e passar a instrução que, enquanto nossa variável for menor que 11, a multiplicaremos por 5 (resultando na tabuada do 5).
-
-```javascript
-let i = 0;
-
-while (i < 11) {
-  console.log(`${i} x 5 = ${i * 5}`);
-  i++;
-}
-```
-
 ### do while
 
 `do while` é parecido com while, mas nele, a condição só acontece depois que os comandos do bloco forem executados.
@@ -81,4 +68,4 @@ do {
 } while (condicao);
 ```
 
-🏋🏽 Bora praticar.. clique aqui para acessar a [lista de atividades](https://docs.google.com/document/d/1qEdaMjPX9npERnQLLwXl7i9ZkGUPry_ZcNqbrl7J5vo).
+🏋🏽 Bora praticar.. clique aqui para acessar a [lista de atividades](https://docs.google.com/document/d/11-dsQd_c9SfU8fCFVBNZTWITJGM3CiQZp9EFOPm-XHM).
