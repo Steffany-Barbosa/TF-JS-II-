@@ -1,0 +1,2 @@
+# Desenvolva um jogo que permita que o usuário tente adivinhar um número inteiro aleatório entre 1 e 100. Utilize um loop do/while, o programa deve fornecer dicas como "maior" ou "menor" após cada tentativa, ao acertar deve informar o número adivinhado e número de tentativas realizadas para descobrir.
+dica: pesquise como gerar um numero aleatório usando o Math
